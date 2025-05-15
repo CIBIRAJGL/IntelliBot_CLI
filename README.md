@@ -1,4 +1,4 @@
-# 🧠 LangChain AI Utility Assistant
+# 🧠 IntelliBot_CLI: LangChain-Powered AI Utility Assistant
 
 A powerful command-line AI assistant powered by LangChain + OpenAI, featuring useful tools like math operations, unit conversion, date calculations, password strength checker, jokes, quotes, and more.
 

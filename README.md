@@ -27,8 +27,9 @@ A powerful command-line AI assistant powered by LangChain + OpenAI, featuring us
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/langchain-smart-assistant.git
-   cd langchain-smart-assistant
+   # Clone YOUR repository (replace with your actual GitHub URL)
+   git clone https://github.com/CIBIRAJGL/IntelliBot_CLI.git
+   cd IntelliBot_CLI
    ```
 
 2. Install dependencies:
